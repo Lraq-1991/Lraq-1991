@@ -7,6 +7,7 @@ I´m focused on a deep dive into databases and any data environment, so I can pr
 
 🌱 Continuously learning and dedicated to making this a better ecosystem. 
 
+![Background Image](https://github.com/Lraq-1991/Lraq-1991/blob/main/background.gif?raw=true)
 
 ### Programming Languages
 
