@@ -1,7 +1,7 @@
 # 👋 Hey There, this is Luis! 
 
 
-I´m focused on a deep dive into databases and any data environment, so I can provide impactful solutions and forecasting. This is also a way of satisfying my hunger to solve complex challenges. 
+I'm focused on deeply understanding databases and other data environments. This will allow me to provide impactful solutions and forecasts. This is also a way of satisfying my hunger to solve complex challenges. 
 
 🛢 Based in Brazil, building my way into this data-driven world. 
 
